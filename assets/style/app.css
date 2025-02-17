@@ -1,0 +1,92 @@
+
+body {
+    background: linear-gradient(#644d97 0%, #89b9ec 20%, #6c4796 100%);
+}
+.profile {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 80px;
+}
+.profileImage {
+    width: 250px;
+}
+.poster2 {
+    width: 300px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.kti3 {
+    width: 300px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.kti2 {
+    width: 300px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.profile h2 {
+    color: white;
+}
+.profile h4 {
+    color: white;
+    transform: translateY(-10px);
+}
+.aboutme {
+    background: linear-gradient(#ffffff 0%, #ffffff79 40%, rgba(255, 255, 255, 0) 100%);
+    padding-bottom: 200px;
+}
+.achievement {
+    padding-top: 80px;
+}
+.aboutme {
+    padding-top: 80px;
+}
+.aboutme p {
+    transform: translateY(10px);
+}
+.achievement h1 {
+    color: white;
+}
+.footer {
+    justify-items: center;
+    background-color: #ffffff;
+}
+.contact a {
+    color: black;
+    font-size: 30px;
+}
+.aboutme a {
+    color: black;
+}
+.contact {
+    padding-bottom: 40px;
+}
+.initial {
+    font-family: "Broadway" ;
+    font-size: 30px;
+}
+.achievement h5 {
+    padding-left: 40px;
+}
+.wrapper {
+    text-align: center;
+    background-color: #ffffff;
+    padding-bottom: 30px;
+}
+.experiences h1 {
+    color:#ffffff;
+    padding-top: 80px;
+    padding-bottom: 20px;
+}
+.achievement {
+    margin-top: 30px;
+}
+.resume {
+    margin-top: 20px;
+}
